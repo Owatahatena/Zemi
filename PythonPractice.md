@@ -11,6 +11,14 @@
 int integer_num; //Cでの整数型の宣言 この場合`integer_num`という名前で整数型の変数として扱うという意味
 ```
 
+### 代入
+宣言した変数に対しデータを結びつける操作のこと  
+
+```c:a.c
+int integer_num; //変数の宣言
+
+integer_num = 10; //10という整数のデータをinterger_numのメモリ領域と結びつける
+```
 
 ## print
 
