@@ -20,6 +20,15 @@ int integer_num; //変数の宣言
 integer_num = 10; //10という整数のデータをinterger_numのメモリ領域と結びつける
 ```
 
+
+### pythonにおける変数
+pythonでは変数に値が格納されるのではなくデータ(オブジェクト)に対して名前（変数名)をタグ付けするイメージ  
+変数の宣言は必要ない  
+
+```python:s.py
+name = "Imamura"
+```
+
 ## print
 
 基本構文①
