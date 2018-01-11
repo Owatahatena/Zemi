@@ -17,3 +17,13 @@ print("Hello, World")
 s = "Hello,World" #strオブジェクトにsという名前を付ける.
 print(s) #出力
 ```  
+
+- 数値の出力
+
+```python:num.py
+num = 100
+print(num)
+
+num = 1.111
+print(num)
+```
