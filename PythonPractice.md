@@ -1,2 +1,10 @@
 # Pythonの入門
-## aaaa
+
+## print
+
+基本構文①s
+
+```python:p.py
+print("Hello, World")
+```
+
