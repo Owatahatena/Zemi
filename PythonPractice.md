@@ -45,6 +45,30 @@ print(type(name))
 
 >> <class 'str'>
 ```
+`<class 'str'>`と出力されたと思います。classについてはとりあえず置いておいて（後ほど詳しく説明します）`str`というのがありますよね？
+それがデータの型になります。str(string)つまり文字列型になります。  
+
+ほかのデータでも試してみましょう。  
+
+```python:t.py
+num = 124
+print(type(num))
+
+>> <class 'int'>
+
+++++++++++++++++++++++++++++++++
+num = 1.234
+print(type(num))
+
+>> <class 'float'>
+
++++++++++++++++++++++++++++++++++
+l = []
+print(type(l))
+
+>> <class 'list'>
+
+```
 
 
 
