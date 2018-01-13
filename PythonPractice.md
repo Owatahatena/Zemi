@@ -56,13 +56,16 @@ print(type(num))
 
 >> <class 'int'>
 
-++++++++++++++++++++++++++++++++
+```
+```python:y.py
 num = 1.234
 print(type(num))
 
 >> <class 'float'>
 
-+++++++++++++++++++++++++++++++++
+```
+
+```python:t.py
 l = []
 print(type(l))
 
