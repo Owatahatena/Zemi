@@ -73,6 +73,13 @@ print(type(l))
 
 ```
 
+```python:t.py
+d = {}
+print(type(d))
+
+>> <class 'dict'>
+```
+
 
 
 ## print
