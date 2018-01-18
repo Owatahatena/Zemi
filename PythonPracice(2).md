@@ -30,3 +30,17 @@ print(num)
 # 制御構文
 
 ## if文　条件分岐
+条件に応じてやりたいことを決めるときに使う。
+例えば`name`が田中太郎だったときとか`num`が10のときにとか…  
+
+```python:if.py
+num = 10
+if num == 10:
+    print(num)
+
+if num > 10:
+    print(num)
+
+if num < 10:
+    print(num)
+```
