@@ -75,7 +75,7 @@ for i in range(1,10):
 pythonではforループを回す際に以下のような書き方もできます。
 
 ```python:ite.py
-colords = ['red','blue','pink',green]
+colors = ['red','blue','pink','green']
 
 for color in colors:
     print(color)
