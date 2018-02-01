@@ -79,3 +79,5 @@ print(type(d))
 
 >> <class 'dict'>
 ```
+
+次はPythonPractice(2)へつづきます。
